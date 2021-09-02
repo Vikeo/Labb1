@@ -1,0 +1,16 @@
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\bin\Debug\net5.0\Labb1.exe
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\bin\Debug\net5.0\Labb1.deps.json
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\bin\Debug\net5.0\Labb1.runtimeconfig.json
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\bin\Debug\net5.0\Labb1.runtimeconfig.dev.json
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\bin\Debug\net5.0\Labb1.dll
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\bin\Debug\net5.0\ref\Labb1.dll
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\bin\Debug\net5.0\Labb1.pdb
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.csproj.AssemblyReference.cache
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.AssemblyInfoInputs.cache
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.AssemblyInfo.cs
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.csproj.CoreCompileInputs.cache
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.dll
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\ref\Labb1.dll
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.pdb
+C:\Users\Vikeo\Documents\GitHub\Labb1\Labb1\Labb1\obj\Debug\net5.0\Labb1.genruntimeconfig.cache
